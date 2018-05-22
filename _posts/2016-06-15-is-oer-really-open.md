@@ -5,9 +5,6 @@ featured-img:
 categories: [OER]
 ---
 
-Is OER Really Open?
-===================
-
 For the past few months, my colleagues and I have been trying to figure out ways to increase the use of OERs (Open Education Resources) at our institution. We conducted meetings with faculty, brainstormed over endless cups of coffee, and did a lot of writing to try to figure out what the barriers to adopting OER content are and how they can be overcome.
 
 It wasn't until this week that I actually decided to attempt to try using existing OER content myself. Up until now, I was taking the word of faculty and other designers at face value --- that it's easy to use and accessible.
