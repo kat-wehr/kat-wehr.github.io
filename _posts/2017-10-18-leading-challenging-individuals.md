@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leading Challenging Individuals 
+featured-img: shane-rounce-205187
 categories: [PSEL, Leadership]
 ---
 One area where I have experienced the most personal growth over the past year is in working with challenging individuals and situations. In my position, I have a lot of responsibility, but not a lot of authority. It is a recipe for increased anxiety! I am responsible for delivering good outcomes, but ultimately I am just one person who doesn't have a lot of say in how the outcomes are achieved. Sometimes a lot of my day to day work is just documenting that I made suggestions, noted potential pitfalls, and tried to correct errors, but that ultimately my feedback was not implemented for xyz reasons...
