@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Some articles are just so long they deserve a really long title to see if things will break well"
+featured-img: shane-rounce-205187
+categories: [PSEL, Leadership, Reflection, Learning 2017, Conferences]
+---
+
 Over the past week, I had the opportunity to attend "Learning 2017," a conference for learning and training professionals in industry. I have never been to such a conference before, because most of my job responsibilities center on education. Since I work at the business school, and the majority of our students are working on their degrees in order to obtain jobs, I felt it would be a unique chance to see the "next step" in learning for the students who walk through the hallways of our building for four years.
 
 In addition to attending, I was also selected for the 30 Under 30 program, which was incredibly fun. I met 29 other young professionals who are driven, poised, intelligent, and hungry to do their jobs well and move up in their fields. As part of this program, we were able to have private Q&A sessions with the speakers who keynoted the various general sessions during the event.
