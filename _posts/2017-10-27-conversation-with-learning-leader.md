@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: Conversation with a Learning Leader
 featured-img: shane-rounce-205187
 categories: [PSEL, Leadership, Reflection, Learning 2017, Conferences]
 ---
