@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misadventures in Teaching with Technology: First xAPI Reports
+title: Misadventures in Teaching with Technology First xAPI Reports
 featured-img: 
 categories: [Teaching, PSU6kw, xAPI]
 ---
