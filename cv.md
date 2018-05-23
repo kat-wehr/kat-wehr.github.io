@@ -71,11 +71,16 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 ## Work Experience
 
-`1600`
-__Royal Mint__, London
+`June 2018 - now`
+__Instructional Designer__, Penn State's College of Arts and Architecture
 
-- Warden
-- Minted coins
+- details
+- details
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University 
+`June 2015 - May 2018`
+__Instructional Designer__, Penn State's Smeal College of Business
+
+- Developed online marketing analytics graduate certificate program for both current and aspiring marketing business professionals
+- Designed and development of graduate level online course offerings in industrial engineering to complement supply chain management program
+- Consulted with residential instruction faculty on implementing educational technology in face-to-face courses
+- Delivered training for instructors on best practices in pedagogy, educational technology integration, and classroom management
