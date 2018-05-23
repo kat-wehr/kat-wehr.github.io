@@ -54,8 +54,6 @@ __Pennsylvania Dept. of Education Teaching Certificate__
 `2017`
 Elliott Masie's 30 Under 30 Recipient 
 
-Associate, *French Academy of Science*, Paris, France
-
 
 
 ## Publications
@@ -64,8 +62,8 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+Wehr, K. Multimodal Discussions in Asynchronous Online Learning Environments. eLearn Magazine. 
 
 
 
