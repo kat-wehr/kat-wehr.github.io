@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conversation with a Learning Leader
-featured-img: shane-rounce-205187
+featured-img: leaderschalkboard
 categories: [PSEL, Leadership, Reflection, Learning 2017, Conferences]
 ---
 
