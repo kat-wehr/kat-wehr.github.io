@@ -4,12 +4,12 @@ title: Katrina Wehr's CV
 permalink: /cv/
 ---
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Katrina Wehr
+Instructional Designer, Educator, Open Education Advocate.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="katrina.m.wehr@gmail.com">katrina.m.wehr@gmail.com</a>
+| <a href="/">My Website</a>
 </div>
 
 
@@ -29,25 +29,30 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-present`
+__Penn State University, State College, PA__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+-Pursuing doctoral degree in Learning, Design, and Technology 
 
-- Sizar
+`2012 - 2013`
+__Kutztown University, Kutztown, PA__
+__M.Ed., Instructional Design__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Graduate Assistant in Library Science & Instructional Technology department
 
-- Fellow
+`2009 - 2012`
+__Penn State University, State College, PA__
+__B.S. Secondary Education - English/Communications__
+__Pennsylvania Dept. of Education Teaching Certificate__
+
+- Student Teacher at Mifflin County Junior High School
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+Elliott Masie's 30 Under 30 Recipient 
 
 Associate, *French Academy of Science*, Paris, France
 
@@ -62,18 +67,9 @@ Associate, *French Academy of Science*, Paris, France
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Work Experience
 
 `1600`
 __Royal Mint__, London
