@@ -13,18 +13,18 @@ Instructional Designer, Educator, Open Education Advocate.
 </div>
 
 
-## Currently
+## Who Am I
 
-Standing on the shoulders of giants
+Tempered radical passionate about exploring and practicing new ways of thinking about online learning experiences. 
 
-### Specialized in
+### Currently
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Designing forward-thinking learning experiences for students in Penn State's College of Arts and Architecture and teaching first-year seminar for business students. 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Specific interests involve utilizing and assessing real-world experiences in digital learning environments, next-generation digital learning environments, pedagogy-first experience design, learning analytics and xAPI, and online community building.
 
 
 ## Education
