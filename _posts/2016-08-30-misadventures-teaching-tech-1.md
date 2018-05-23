@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misadventures in Teaching with Technology: Week 1
+title: Misadventures in Teaching with Technology Week 1
 featured-img: 
 categories: [Teaching, PSU6kw]
 ---
