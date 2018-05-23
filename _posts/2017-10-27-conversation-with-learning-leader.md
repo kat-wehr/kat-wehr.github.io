@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conversation with a Learning Leader
-featured-img: leaderschalkboard
+featured-img: 
 categories: [PSEL, Leadership, Reflection, Learning 2017, Conferences]
 ---
 
