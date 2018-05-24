@@ -17,7 +17,7 @@ Instructional Designer, Educator, Open Education Advocate.
 
 ## Teaching &amp; Learning Experience
 
-Instructional Designer, __Penn State University: College of Arts and Architecture__
+Instructional Designer, __Penn State University: College of Arts and Architecture__ 
 June 2018 - Present
 
 - details to come!
