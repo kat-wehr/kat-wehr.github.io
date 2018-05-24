@@ -4,7 +4,7 @@ title: Katrina Wehr's CV
 permalink: /cv/
 ---
 
-# Katrina Wehr
+# Katrina M. Wehr
 Instructional Designer, Educator, Open Education Advocate.
 
 <div id="webaddress">
@@ -17,14 +17,14 @@ Instructional Designer, Educator, Open Education Advocate.
 
 ## Teaching &amp; Learning Experience
 
-Instructional Designer, __Penn State University__         June 2015 – Present
+Instructional Designer, __Penn State University__  'June 2015 – Present'
 
 - Manage design, development and launch of courses in the new marketing analytics professional certificate for-credit program
 - Collaborate with teammates to develop information sessions designed to engage and train faculty regarding new technology tools and pedagogical strategies
 - Manage production of digital course resources such as instructional videos and interactive content, print and third-party resources
 - Consult with residential faculty to integrate digital learning experiences in face-to-face courses
 
-Instructor, First Year Seminar, __Penn State University__         Aug. 2016 – Present
+Instructor, First Year Seminar, __Penn State University__  'Aug. 2016 – Present'
 
 - Developed master course model with seminar director to mitigate curricular drift
 - Coordinated transition of over 50 sections of first year seminar from ANGEL to Canvas
@@ -43,7 +43,7 @@ Help Desk Consultant &amp; Course Developer, __Blended Schools Network__        
 - Provided Tier I &amp; Tier II technical support to 75,000 K-12 teacher, student and parent users
 - Produced video and print tutorials reviewing common procedures within Blackboard Learn
 
-Instructional Designer, __PLS 3**** rd **** Learning__         June 2013 – Sept. 2013
+Instructional Designer, __PLS 3rd Learning__         June 2013 – Sept. 2013
 
 - Designed Act 80-qualified online instructional units for K-12 teachers using Articulate Storyline
 - Performed regular web maintenance and updates for graduate-level professional online courses
