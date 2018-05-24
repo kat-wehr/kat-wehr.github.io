@@ -81,14 +81,16 @@ _Aug. 2012 – Aug. 2013_
 
 ## Education
 
-Learning, Design, & Technology Doctoral Study In Progress, __Penn State University__ _Present_
+__Learning, Design, & Technology Doctoral Study In Progress__ 
+Penn State University, Fall 2018 - Present
 
-M.Ed. Instructional Technology, __Kutztown University of Pennsylvania__         _Dec. 2013_
+__M.Ed. Instructional Technology__ 
+Kutztown University of Pennsylvania, Dec. 2013
 
-B.S. Secondary Education: English &amp; Communications, __Penn State University__         _May 2012_
+__B.S. Secondary Education: English &amp; Communications__ 
+Penn State University, May 2012
 
 _Supplemental Graduate Coursework: Penn State University_
-
 - Curriculums in Higher Education (HIED 548), SP 16
 - Administration in Higher Education (HIED 552), SP 17
 
