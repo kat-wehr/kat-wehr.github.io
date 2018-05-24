@@ -17,17 +17,20 @@ Instructional Designer, Educator, Open Education Advocate.
 
 ## Teaching &amp; Learning Experience
 
-Instructional Designer, __Penn State University: College of Arts and Architecture__  | June 2018 - Present
+Instructional Designer, __Penn State University: College of Arts and Architecture__ 
+June 2018 - Present
 
 - details to come!
 
-Instructor, First Year Seminar, __Penn State University__  | Aug. 2016 – Present
+Instructor, First Year Seminar, __Penn State University__   
+_Aug. 2016 – Present_
 
 - Developed master course model with seminar director to mitigate curricular drift
 - Coordinated transition of over 50 sections of first year seminar from ANGEL to Canvas
 - Redesigned my section of first year seminar to pilot blended learning model
 
-Instructional Designer, __Penn State University: Smeal College of Business__  | June 2015 – May 2018 
+Instructional Designer, __Penn State University: Smeal College of Business__  
+_June 2015 – May 2018_ 
 
 - Manage design, development and launch of courses in the new marketing analytics professional certificate for-credit program
 - Collaborate with teammates to develop information sessions designed to engage and train faculty regarding new technology tools and pedagogical strategies
@@ -35,7 +38,7 @@ Instructional Designer, __Penn State University: Smeal College of Business__  | 
 - Consult with residential faculty to integrate digital learning experiences in face-to-face courses
 
 Instructional Technologist, __Drexel University__         
-Dec. 2013 – May 2015
+_Dec. 2013 – May 2015_
 
 - Facilitated presentations and workshops to increase faculty awareness of current approaches and best practices in online education and application of learning technologies
 - Consulted with faculty to develop engaging learning experiences for online and hybrid courses
@@ -43,14 +46,14 @@ Dec. 2013 – May 2015
 - Reviewed and revised online and blended courses according to university accessibility guidelines
 
 Help Desk Consultant &amp; Course Developer, __Blended Schools Network__         
-June 2013 – Oct. 2013
+_June 2013 – Oct. 2013_
 
 - Designed and developed 7-week introductory online teaching professional development course
 - Provided Tier I &amp; Tier II technical support to 75,000 K-12 teacher, student and parent users
 - Produced video and print tutorials reviewing common procedures within Blackboard Learn
 
 Instructional Designer, __PLS 3rd Learning__         
-June 2013 – Sept. 2013
+_June 2013 – Sept. 2013_
 
 - Designed Act 80-qualified online instructional units for K-12 teachers using Articulate Storyline
 - Performed regular web maintenance and updates for graduate-level professional online courses
@@ -58,20 +61,19 @@ June 2013 – Sept. 2013
 - Wrote and edited copy for online textbooks used in graduate-level professional courses
 
 Intern, __eLearn Institute, Inc.__        
-April 2013 – Aug. 2013
+_April 2013 – Aug. 2013_
 
 - Consulted with district and building-level technology leaders in the process of implementing online learning and 1:1 programs in K-12 settings
 - Presented strategic planning and implementation process to PA school district officials
 
 Substitute Teacher, __Northern Lehigh School District__        
-Sept. 2012 – June 2013
+_Sept. 2012 – June 2013_
 
 - Served as floating/long term substitute across various grade levels and buildings within the district
-
 - Facilitated learning plans according to full-time teachers&#39; directions
 
 Instructional Technology Graduate Assistant, __Kutztown University__         
-Aug. 2012 – Aug. 2013
+_Aug. 2012 – Aug. 2013_
 
 - Designed and produced multimedia learning resources to promote library initiatives and expand library presence online using social media
 - Consulted with professors and staff to establish learning objectives and brainstorm ideas to create multimedia learning resources for use in online, blended and face-to-face environments
@@ -79,32 +81,35 @@ Aug. 2012 – Aug. 2013
 
 ## Education
 
-Learning, Design, & Technology Doctoral Study In Progress, __Penn State University__ Present
+Learning, Design, & Technology Doctoral Study In Progress, __Penn State University__ _Present_
 
-M.Ed. Instructional Technology, __Kutztown University of Pennsylvania__         Dec. 2013
+M.Ed. Instructional Technology, __Kutztown University of Pennsylvania__         _Dec. 2013_
 
-B.S. Secondary Education: English &amp; Communications, __Penn State University__         May 2012
+B.S. Secondary Education: English &amp; Communications, __Penn State University__         _May 2012_
 
 _Supplemental Graduate Coursework: Penn State University_
 
-- Curriculums in Higher Education (HIED 548)
-- Administration in Higher Education (HIED 552)
+- Curriculums in Higher Education (HIED 548), SP 16
+- Administration in Higher Education (HIED 552), SP 17
 
 ## Service Leadership
 
-Steering Committee, __Online Learning Consortium Innovate Conference__         May 2016 – Present
+Steering Committee, __Online Learning Consortium Innovate Conference__         
+_May 2016 – Oct. 2017_
 
 - Coordinated team selection and participation in Solution Design Summit program leading up to OLC Innovate 2017 national conference
 - Facilitated onsite workshop on identifying critical success factors for team design proposals
 - Assisted in logistical planning and scheduling
 
-Marketing Committee, __Elements: The Web Conference at Penn State__        July 2015 – Oct. 2016
+Marketing Committee, __Elements: The Web Conference at Penn State__        
+_July 2015 – Oct. 2016_
 
 - Redeveloped marketing and communication strategy to align with overall committee goals
 - Assembled and managed team of diverse individuals with complementary skillsets
 - Worked in partnership with other committee leads to coordinate deadlines, promote conference tracks, and develop content strategy that supported conference mission
 
-Liberty Ball Planning Committee Chair, __PSAA Philadelphia Chapter__         July 2014 – Feb. 2015
+Liberty Ball Planning Committee Chair, __PSAA Philadelphia Chapter__         
+_July 2014 – Feb. 2015_
 
 - Provided strategic oversight for acquiring donations and funds targeted for our event audience
 - Solicited in-kind donations for silent auction fundraiser
