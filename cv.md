@@ -82,6 +82,8 @@ Aug. 2012 – Aug. 2013
 
 ## Education
 
+Learning, Design, & Technology Doctoral Study In Progress, __Penn State University__ Present
+
 M.Ed. Instructional Technology, __Kutztown University of Pennsylvania__         Dec. 2013
 
 B.S. Secondary Education: English &amp; Communications, __Penn State University__         May 2012
