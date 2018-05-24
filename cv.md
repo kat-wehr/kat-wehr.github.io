@@ -17,7 +17,7 @@ Instructional Designer, Educator, Open Education Advocate.
 
 ## Teaching &amp; Learning Experience
 
-Instructional Designer, __Penn State University: College of Arts and Architecture__ 
+Instructional Designer, __Penn State University: College of Arts and Architecture__  
 _June 2018 - Present_
 
 - details to come!
@@ -81,13 +81,13 @@ _Aug. 2012 – Aug. 2013_
 
 ## Education
 
-__Learning, Design, & Technology Doctoral Study__ 
+__Learning, Design, & Technology Doctoral Study__  
 Penn State University, Fall 2018 - Present
 
-__M.Ed. Instructional Technology__ 
+__M.Ed. Instructional Technology__  
 Kutztown University of Pennsylvania, Dec. 2013
 
-__B.S. Secondary Education: English &amp; Communications__
+__B.S. Secondary Education: English &amp; Communications__  
 Penn State University, May 2012
 
 _Supplemental Graduate Coursework: Penn State University_
