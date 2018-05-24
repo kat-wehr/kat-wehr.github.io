@@ -17,51 +17,64 @@ Instructional Designer, Educator, Open Education Advocate.
 
 ## Teaching &amp; Learning Experience
 
-Instructional Designer, __Penn State University__  'June 2015 – Present'
+Instructional Designer, __Penn State University: College of Arts and Architecture__
+June 2018 - Present
+
+- details to come!
+
+Instructor, First Year Seminar, __Penn State University__  
+Aug. 2016 – Present
+
+- Developed master course model with seminar director to mitigate curricular drift
+- Coordinated transition of over 50 sections of first year seminar from ANGEL to Canvas
+- Redesigned my section of first year seminar to pilot blended learning model
+
+Instructional Designer, __Penn State University: Smeal College of Business__  
+June 2015 – May 2018 
 
 - Manage design, development and launch of courses in the new marketing analytics professional certificate for-credit program
 - Collaborate with teammates to develop information sessions designed to engage and train faculty regarding new technology tools and pedagogical strategies
 - Manage production of digital course resources such as instructional videos and interactive content, print and third-party resources
 - Consult with residential faculty to integrate digital learning experiences in face-to-face courses
 
-Instructor, First Year Seminar, __Penn State University__  'Aug. 2016 – Present'
-
-- Developed master course model with seminar director to mitigate curricular drift
-- Coordinated transition of over 50 sections of first year seminar from ANGEL to Canvas
-- Redesigned my section of first year seminar to pilot blended learning model
-
-Instructional Technologist, __Drexel University__         Dec. 2013 – May 2015
+Instructional Technologist, __Drexel University__         
+Dec. 2013 – May 2015
 
 - Facilitated presentations and workshops to increase faculty awareness of current approaches and best practices in online education and application of learning technologies
 - Consulted with faculty to develop engaging learning experiences for online and hybrid courses
 - Provided LMS support to faculty and students in LeBow College of Business
 - Reviewed and revised online and blended courses according to university accessibility guidelines
 
-Help Desk Consultant &amp; Course Developer, __Blended Schools Network__         June 2013 – Oct. 2013
+Help Desk Consultant &amp; Course Developer, __Blended Schools Network__         
+June 2013 – Oct. 2013
 
 - Designed and developed 7-week introductory online teaching professional development course
 - Provided Tier I &amp; Tier II technical support to 75,000 K-12 teacher, student and parent users
 - Produced video and print tutorials reviewing common procedures within Blackboard Learn
 
-Instructional Designer, __PLS 3rd Learning__         June 2013 – Sept. 2013
+Instructional Designer, __PLS 3rd Learning__         
+June 2013 – Sept. 2013
 
 - Designed Act 80-qualified online instructional units for K-12 teachers using Articulate Storyline
 - Performed regular web maintenance and updates for graduate-level professional online courses
 - Edited HTML and CSS files in Dreamweaver and update content within Sakai LMS
 - Wrote and edited copy for online textbooks used in graduate-level professional courses
 
-Intern, __eLearn Institute, Inc.__        April 2013 – Aug. 2013
+Intern, __eLearn Institute, Inc.__        
+April 2013 – Aug. 2013
 
 - Consulted with district and building-level technology leaders in the process of implementing online learning and 1:1 programs in K-12 settings
 - Presented strategic planning and implementation process to PA school district officials
 
-Substitute Teacher, __Northern Lehigh School District__        Sept. 2012 – June 2013
+Substitute Teacher, __Northern Lehigh School District__        
+Sept. 2012 – June 2013
 
 - Served as floating/long term substitute across various grade levels and buildings within the district
 
 - Facilitated learning plans according to full-time teachers&#39; directions
 
-Instructional Technology Graduate Assistant, __Kutztown University__         Aug. 2012 – Aug. 2013
+Instructional Technology Graduate Assistant, __Kutztown University__         
+Aug. 2012 – Aug. 2013
 
 - Designed and produced multimedia learning resources to promote library initiatives and expand library presence online using social media
 - Consulted with professors and staff to establish learning objectives and brainstorm ideas to create multimedia learning resources for use in online, blended and face-to-face environments
