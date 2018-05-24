@@ -15,7 +15,7 @@ Instructional Designer, Educator, Open Education Advocate.
 
 
 
-**Teaching &amp; Learning Experience**
+## Teaching &amp; Learning Experience
 
 Instructional Designer, **Penn State University**         June 2015 – Present
 
@@ -67,7 +67,7 @@ Instructional Technology Graduate Assistant, **Kutztown University**         Aug
 - Consulted with professors and staff to establish learning objectives and brainstorm ideas to create multimedia learning resources for use in online, blended and face-to-face environments
 - Conducted research and analyzed findings to identify needs of library patrons for use in planning, grant writing, acquiring and allocating funds
 
-**Education**
+## Education
 
 M.Ed. Instructional Technology, Kutztown University of Pennsylvania         Dec. 2013
 
@@ -78,7 +78,7 @@ Supplemental Graduate Coursework: Penn State University
 - Curriculums in Higher Education (HIED 548)
 - Administration in Higher Education (HIED 552)
 
-**Service Leadership**
+## Service Leadership
 
 Steering Committee, **Online Learning Consortium Innovate Conference         ** May 2016 – Present
 
@@ -98,7 +98,7 @@ Liberty Ball Planning Committee Chair, **PSAA Philadelphia Chapter         ** Ju
 - Solicited in-kind donations for silent auction fundraiser
 - Communicated with donors and chapter members to coordinate donation pick up, negotiate sponsorships, and manage public relations
 
-**Scholarly Presentations &amp; Workshops**
+## Scholarly Presentations &amp; Workshops 
 
 &quot;Next Gen Digital Learning Environments,&quot; EDUCAUSE ELI 2018
 
@@ -114,7 +114,7 @@ Liberty Ball Planning Committee Chair, **PSAA Philadelphia Chapter         ** Ju
 
 &quot;Reclaim Class Time with VoiceThread,&quot; eLearning 3.0 2015, Drexel University
 
-**Professional Achievements &amp; Activities  **
+## Professional Achievements &amp; Activities
 
 Elliott Masie&#39;s Learning 2017 &quot;30 Under 30&quot; Recipient
 
