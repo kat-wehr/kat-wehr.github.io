@@ -17,20 +17,17 @@ Instructional Designer, Educator, Open Education Advocate.
 
 ## Teaching &amp; Learning Experience
 
-Instructional Designer, __Penn State University: College of Arts and Architecture__ 
-June 2018 - Present
+Instructional Designer, __Penn State University: College of Arts and Architecture__  | June 2018 - Present
 
 - details to come!
 
-Instructor, First Year Seminar, __Penn State University__  
-Aug. 2016 – Present
+Instructor, First Year Seminar, __Penn State University__  | Aug. 2016 – Present
 
 - Developed master course model with seminar director to mitigate curricular drift
 - Coordinated transition of over 50 sections of first year seminar from ANGEL to Canvas
 - Redesigned my section of first year seminar to pilot blended learning model
 
-Instructional Designer, __Penn State University: Smeal College of Business__  
-June 2015 – May 2018 
+Instructional Designer, __Penn State University: Smeal College of Business__  | June 2015 – May 2018 
 
 - Manage design, development and launch of courses in the new marketing analytics professional certificate for-credit program
 - Collaborate with teammates to develop information sessions designed to engage and train faculty regarding new technology tools and pedagogical strategies
