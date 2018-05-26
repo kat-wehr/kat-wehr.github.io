@@ -10,10 +10,8 @@ Instructional Designer, Educator, Open Education Advocate.
 <div id="webaddress">
 <a href="katrina.m.wehr@gmail.com">katrina.m.wehr@gmail.com</a>
 | <a href="/">My Website</a>
-</div>
-
-
-
+</div>  
+***
 
 ## Teaching &amp; Learning Experience
 
