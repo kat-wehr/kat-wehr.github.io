@@ -12,7 +12,9 @@ Instructional Designer, Educator, Open Education Advocate.
 | <a href="/">My Website</a>
   <br>
 </div>  
-***
+
+***  
+
 ## Teaching &amp; Learning Experience
 
 Instructional Designer, __Penn State University: College of Arts and Architecture__  
