@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-You've stumbled into my online homepage. Check back frequently for updates about my work. 
+Look here for descriptions of various projects, presentations, and other deliverables I've created. 
 
 You can find the source code for the Jekyll new theme at:
 [sleek](https://github.com/janczizikow/sleek)
