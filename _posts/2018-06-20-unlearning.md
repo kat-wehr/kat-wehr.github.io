@@ -2,7 +2,7 @@
 layout: post
 title: Unlearning 
 featured-img: shane-rounce-205187
-categories: [Work, Reflection]
+categories: [Work, Reflection, Pedagogy, Art]
 ---
 
 I wanted to take on a new position with different content, faculty, and processes because I knew it would help my practice become more well-rounded. So, while I wasn't surprised that I am struggling a bit with wrapping my head around the idea of arts-specific pedagogy, what is surprising to me is how ingrained in my mind my process for business education design. 
@@ -18,3 +18,5 @@ Business is a very logical, linear type of discipline. Students progress through
 But art education on the other hand appears to expose students to as much as possible right away, and the rest of their education focuses  on helping students develop a mindset through which to apply those skills to various situations. That may be a naive way of stating it (after all, the subject of this reflection is my lack of understanding!). 
 
 To that end, I've spent some time this week looking for titles from our library to help me ground my practice in this new field. I'm beginning my study with "Discord and Disjuncture Between the Arts and Higher Education," which is a compilation of papers by authors who have experienced the conflicting values of today's higher education landscape and the greater goals of art education. It's edited by Jessica Hoffman Davis, who writes a compelling introduction that sets a clear stage for what follows in the rest of the book. 
+
+I've only just started the book, but I hope to refelct here as I read through each contributor's experiences and share my own connections. If you're interested in picking up a copy yourself, here's the info for the Amazon listing: [https://www.amazon.com/Discourse-Disjuncture-between-Higher-Education/dp/1137561955/ref=sr_1_1?ie=UTF8&qid=1529506490&sr=8-1&keywords=discourse+and+disjuncture](Discourse and Disjuncture Between the Arts and Higher Education). 
