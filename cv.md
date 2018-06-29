@@ -20,7 +20,10 @@ Instructional Designer, Educator, Open Education Advocate.
 Instructional Designer, __Penn State University: College of Arts and Architecture__  
 _June 2018 - Present_
 
-- details to come!
+- Manage and maintain School of Visual Arts online courses for both distance and residential undergraduate students
+- Collaborate with faculty to develop the interdisciplinary Digital Media Design online bachelor's degree program
+- Work in partnership with instructor to develop, propose, and design introductory Art Therapy online course for both art-major and non-major undergraduates
+- Consult with faculty regarding best practices for online/digitally enhanced teaching and learning
 
 Instructor, First Year Seminar, __Penn State University__   
 _Aug. 2016 – Present_
