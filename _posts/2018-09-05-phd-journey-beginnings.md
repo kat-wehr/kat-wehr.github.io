@@ -2,7 +2,7 @@
 layout: post
 title: Ph.D. Journey Beginnings 
 featured-img:
-categories: [phd, doctoral study, Relfection]
+categories: [phd, doctoral study, Reflection]
 ---
 
 I'm two weeks into Ph.D. study thus far, and I'm surprisingly satisfied with the experience at this point. I'm taking two research classes, which is apparently a thing that is uncommon if I were to judge by the reactions of other students in my classes. So far, it's not too overwhelming, although I'm sure my tune may change once the assignment deadlines start getting closer.
