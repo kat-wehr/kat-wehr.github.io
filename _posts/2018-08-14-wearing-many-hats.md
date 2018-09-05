@@ -2,7 +2,7 @@
 layout: post
 title: Wearing Many Hats 
 featured-img:
-categories: [Work, Relfection]
+categories: [Work, Reflection]
 ---
 
 It's that time of the year where anyone who works in any type of academic support capacity really feels the crush of the impending fall semester bearing down. At Penn State, we are just under a week away from the first day of classes, and our students have been moving in all week. Our sleepy town is about to wake up for the next 35-ish weeks! 
